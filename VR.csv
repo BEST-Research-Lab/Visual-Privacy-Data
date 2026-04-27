@@ -1,0 +1,451 @@
+view,sight height(M),street-canyon width,window width(M),sill height(M),balcony,space category,building height(L),building height(F),building height(R),window width(L),window width(F),window width(R),sill height(L),sill height(F),sill height(R),balcony(L),balcony(F),balcony(R),curtain(L),curtain(F),curtain(R),sex,age,edu,privacy
+BBB,3.0,6.0,4.0,0.6,0,living room,19,0.0,13.0,2.0,0.0,1.0,0.4,0.0,0.4,0,0,1,1,0,1,Female,31-45,University Education,very low
+BGB,14.0,32.7,1.8,0.9,0,Bedroom,19,0.0,19.0,1.0,0.0,1.0,0.4,0.0,0.4,1,0,1,0,0,0,Male,31-45,University Education,low
+BGB,14.0,32.7,1.8,0.9,0,Bedroom,19,0.0,19.0,1.0,0.0,1.0,0.4,0.0,0.4,1,0,1,0,0,0,Male,31-45,University Education,low
+BGB,14.0,32.7,1.8,0.9,0,Bedroom,19,0.0,19.0,1.0,0.0,1.0,0.4,0.0,0.4,1,0,1,0,0,0,Female,31-45,University Education,high
+BGB,14.0,32.7,1.8,0.9,0,Bedroom,19,0.0,19.0,1.0,0.0,1.0,0.4,0.0,0.4,1,0,1,0,0,0,Female,31-45,University Education,medium
+BGB,14.0,32.7,1.8,0.9,0,Bedroom,19,0.0,19.0,1.0,0.0,1.0,0.4,0.0,0.4,1,0,1,0,0,0,Male,46-60,Secondary education,medium
+BGB,14.0,32.7,1.8,0.9,0,Bedroom,19,0.0,19.0,1.0,0.0,1.0,0.4,0.0,0.4,1,0,1,0,0,0,Female,31-45,Secondary education,high
+BGB,14.0,32.7,1.8,0.9,0,Bedroom,19,0.0,19.0,1.0,0.0,1.0,0.4,0.0,0.4,1,0,1,0,0,0,Male,31-45,Secondary education,medium
+BGB,14.0,32.7,1.8,0.9,0,Bedroom,19,0.0,19.0,1.0,0.0,1.0,0.4,0.0,0.4,1,0,1,0,0,0,Female,21-30,Secondary education,v-high
+BGB,14.0,32.7,1.8,0.9,0,Bedroom,19,0.0,19.0,1.0,0.0,1.0,0.4,0.0,0.4,1,0,1,0,0,0,Female,31-45,University Education,medium
+BGB,14.0,32.7,1.8,0.9,0,Bedroom,19,0.0,19.0,1.0,0.0,1.0,0.4,0.0,0.4,1,0,1,0,0,0,Female,46-60,University Education,high
+BGB,14.0,32.7,1.8,0.9,0,Bedroom,19,0.0,19.0,1.0,0.0,1.0,0.4,0.0,0.4,1,0,1,0,0,0,Male,21-30,Secondary education,high
+BGB,14.0,32.7,1.8,0.9,0,Bedroom,19,0.0,19.0,1.0,0.0,1.0,0.4,0.0,0.4,1,0,1,0,0,0,Female,31-45,Secondary education,high
+BGB,14.0,32.7,1.8,0.9,0,Bedroom,19,0.0,19.0,1.0,0.0,1.0,0.4,0.0,0.4,1,0,1,0,0,0,Female,31-45,Secondary education,high
+BGB,14.0,32.7,1.8,0.9,0,Bedroom,19,0.0,19.0,1.0,0.0,1.0,0.4,0.0,0.4,1,0,1,0,0,0,Female,31-45,University Education,low
+BGB,14.0,32.7,1.8,0.9,0,Bedroom,19,0.0,19.0,1.0,0.0,1.0,0.4,0.0,0.4,1,0,1,0,0,0,Female,31-45,Secondary education,high
+BGB,14.0,32.7,1.8,0.9,0,Bedroom,19,0.0,19.0,1.0,0.0,1.0,0.4,0.0,0.4,1,0,1,0,0,0,Male,31-45,University Education,medium
+BGB,14.0,32.7,1.8,0.9,0,Bedroom,19,0.0,19.0,1.0,0.0,1.0,0.4,0.0,0.4,1,0,1,0,0,0,Female,21-30,Secondary education,v-low
+BGB,14.0,32.7,1.8,0.9,0,Bedroom,19,0.0,19.0,1.0,0.0,1.0,0.4,0.0,0.4,1,0,1,0,0,0,Female,31-45,Secondary education,high
+BGB,14.0,32.7,1.8,0.9,0,Bedroom,19,0.0,19.0,1.0,0.0,1.0,0.4,0.0,0.4,1,0,1,0,0,0,Male,31-45,University Education,low
+BGB,14.0,32.7,1.8,0.9,0,Bedroom,19,0.0,19.0,1.0,0.0,1.0,0.4,0.0,0.4,1,0,1,0,0,0,Female,21-30,University Education,v-low
+BGB,14.0,32.7,1.8,0.9,0,Bedroom,19,0.0,19.0,1.0,0.0,1.0,0.4,0.0,0.4,1,0,1,0,0,0,Male,21-30,University Education,low
+BGB,14.0,32.7,1.8,0.9,0,Bedroom,19,0.0,19.0,1.0,0.0,1.0,0.4,0.0,0.4,1,0,1,0,0,0,Male,21-30,Secondary education,high
+BGB,14.0,32.7,1.8,0.9,0,Bedroom,19,0.0,19.0,1.0,0.0,1.0,0.4,0.0,0.4,1,0,1,0,0,0,Female,46-60,Secondary education,medium
+BGB,14.0,32.7,1.8,0.9,0,Bedroom,19,0.0,19.0,1.0,0.0,1.0,0.4,0.0,0.4,1,0,1,0,0,0,Male,46-60,University Education,medium
+BGB,4.4,13.5,4.0,0.2,0,Bedroom,19,0.0,19.0,1.0,0.0,1.0,0.4,0.0,0.4,1,0,1,0,0,0,Female,31-45,University Education,low
+BGB,4.4,13.5,4.0,0.2,0,Bedroom,19,0.0,19.0,1.0,0.0,1.0,0.4,0.0,0.4,1,0,1,0,0,0,Male,31-45,University Education,v-low
+BGB,4.4,13.5,4.0,0.2,0,Bedroom,19,0.0,19.0,1.0,0.0,1.0,0.4,0.0,0.4,1,0,1,0,0,0,Male,31-45,University Education,v-low
+BGB,4.4,13.5,4.0,0.2,0,Bedroom,19,0.0,19.0,1.0,0.0,1.0,0.4,0.0,0.4,1,0,1,0,0,0,Female,31-45,University Education,v-low
+BGB,4.4,13.5,4.0,0.2,0,Bedroom,19,0.0,19.0,1.0,0.0,1.0,0.4,0.0,0.4,1,0,1,0,0,0,Female,31-45,University Education,low
+BGB,4.4,13.5,4.0,0.2,0,Bedroom,19,0.0,19.0,1.0,0.0,1.0,0.4,0.0,0.4,1,0,1,0,0,0,Male,46-60,Secondary education,medium
+BGB,4.4,13.5,4.0,0.2,0,Bedroom,19,0.0,19.0,1.0,0.0,1.0,0.4,0.0,0.4,1,0,1,0,0,0,Female,31-45,Secondary education,v-low
+BGB,4.4,13.5,4.0,0.2,0,Bedroom,19,0.0,19.0,1.0,0.0,1.0,0.4,0.0,0.4,1,0,1,0,0,0,Male,31-45,Secondary education,low
+BGB,4.4,13.5,4.0,0.2,0,Bedroom,19,0.0,19.0,1.0,0.0,1.0,0.4,0.0,0.4,1,0,1,0,0,0,Female,21-30,Secondary education,high
+BGB,4.4,13.5,4.0,0.2,0,Bedroom,19,0.0,19.0,1.0,0.0,1.0,0.4,0.0,0.4,1,0,1,0,0,0,Female,31-45,University Education,low
+BGB,4.4,13.5,4.0,0.2,0,Bedroom,19,0.0,19.0,1.0,0.0,1.0,0.4,0.0,0.4,1,0,1,0,0,0,Female,46-60,University Education,high
+BGB,4.4,13.5,4.0,0.2,0,Bedroom,19,0.0,19.0,1.0,0.0,1.0,0.4,0.0,0.4,1,0,1,0,0,0,Male,21-30,Secondary education,high
+BGB,4.4,13.5,4.0,0.2,0,Bedroom,19,0.0,19.0,1.0,0.0,1.0,0.4,0.0,0.4,1,0,1,0,0,0,Female,31-45,Secondary education,low
+BGB,4.4,13.5,4.0,0.2,0,Bedroom,19,0.0,19.0,1.0,0.0,1.0,0.4,0.0,0.4,1,0,1,0,0,0,Female,31-45,Secondary education,v-low
+BGB,4.4,13.5,4.0,0.2,0,Bedroom,19,0.0,19.0,1.0,0.0,1.0,0.4,0.0,0.4,1,0,1,0,0,0,Female,31-45,University Education,v-low
+BGB,4.4,13.5,4.0,0.2,0,Bedroom,19,0.0,19.0,1.0,0.0,1.0,0.4,0.0,0.4,1,0,1,0,0,0,Female,31-45,Secondary education,low
+BGB,4.4,13.5,4.0,0.2,0,Bedroom,19,0.0,19.0,1.0,0.0,1.0,0.4,0.0,0.4,1,0,1,0,0,0,Male,31-45,University Education,medium
+BGB,4.4,13.5,4.0,0.2,0,Bedroom,19,0.0,19.0,1.0,0.0,1.0,0.4,0.0,0.4,1,0,1,0,0,0,Female,21-30,Secondary education,medium
+BGB,4.4,13.5,4.0,0.2,0,Bedroom,19,0.0,19.0,1.0,0.0,1.0,0.4,0.0,0.4,1,0,1,0,0,0,Female,31-45,University Education,high
+BGB,4.4,13.5,4.0,0.2,0,Bedroom,19,0.0,19.0,1.0,0.0,1.0,0.4,0.0,0.4,1,0,1,0,0,0,Male,31-45,University Education,high
+BGB,4.4,13.5,4.0,0.2,0,Bedroom,19,0.0,19.0,1.0,0.0,1.0,0.4,0.0,0.4,1,0,1,0,0,0,Female,21-30,University Education,low
+BGB,4.4,13.5,4.0,0.2,0,Bedroom,19,0.0,19.0,1.0,0.0,1.0,0.4,0.0,0.4,1,0,1,0,0,0,Male,21-30,University Education,low
+BGB,4.4,13.5,4.0,0.2,0,Bedroom,19,0.0,19.0,1.0,0.0,1.0,0.4,0.0,0.4,1,0,1,0,0,0,Male,21-30,Secondary education,low
+BGB,4.4,13.5,4.0,0.2,0,Bedroom,19,0.0,19.0,1.0,0.0,1.0,0.4,0.0,0.4,1,0,1,0,0,0,Female,46-60,Secondary education,high
+BGB,4.4,13.5,4.0,0.2,0,Bedroom,19,0.0,19.0,1.0,0.0,1.0,0.4,0.0,0.4,1,0,1,0,0,0,Male,46-60,University Education,low
+BGS,4.4,32.7,1.8,0.9,0,Bedroom,0,0.0,29.0,0.0,0.0,3.0,0.0,0.0,0.1,0,0,0,0,0,0,Female,31-45,University Education,medium
+BGS,4.4,32.7,1.8,0.9,0,Bedroom,0,0.0,29.0,0.0,0.0,3.0,0.0,0.0,0.1,0,0,0,0,0,0,Male,31-45,University Education,medium
+BGS,4.4,32.7,1.8,0.9,0,Bedroom,0,0.0,29.0,0.0,0.0,3.0,0.0,0.0,0.1,0,0,0,0,0,0,Male,31-45,University Education,high
+BGS,4.4,32.7,1.8,0.9,0,Bedroom,0,0.0,29.0,0.0,0.0,3.0,0.0,0.0,0.1,0,0,0,0,0,0,Female,31-45,University Education,medium
+BGS,4.4,32.7,1.8,0.9,0,Bedroom,0,0.0,29.0,0.0,0.0,3.0,0.0,0.0,0.1,0,0,0,0,0,0,Female,31-45,University Education,high
+BGS,4.4,32.7,1.8,0.9,0,Bedroom,0,0.0,29.0,0.0,0.0,3.0,0.0,0.0,0.1,0,0,0,0,0,0,Male,46-60,Secondary education,low
+BGS,4.4,32.7,1.8,0.9,0,Bedroom,0,0.0,29.0,0.0,0.0,3.0,0.0,0.0,0.1,0,0,0,0,0,0,Female,31-45,Secondary education,high
+BGS,4.4,32.7,1.8,0.9,0,Bedroom,0,0.0,29.0,0.0,0.0,3.0,0.0,0.0,0.1,0,0,0,0,0,0,Male,31-45,Secondary education,high
+BGS,4.4,32.7,1.8,0.9,0,Bedroom,0,0.0,29.0,0.0,0.0,3.0,0.0,0.0,0.1,0,0,0,0,0,0,Female,21-30,Secondary education,high
+BGS,4.4,32.7,1.8,0.9,0,Bedroom,0,0.0,29.0,0.0,0.0,3.0,0.0,0.0,0.1,0,0,0,0,0,0,Female,31-45,University Education,medium
+BGS,4.4,32.7,1.8,0.9,0,Bedroom,0,0.0,29.0,0.0,0.0,3.0,0.0,0.0,0.1,0,0,0,0,0,0,Female,46-60,University Education,v-high
+BGS,4.4,32.7,1.8,0.9,0,Bedroom,0,0.0,29.0,0.0,0.0,3.0,0.0,0.0,0.1,0,0,0,0,0,0,Male,21-30,Secondary education,high
+BGS,4.4,32.7,1.8,0.9,0,Bedroom,0,0.0,29.0,0.0,0.0,3.0,0.0,0.0,0.1,0,0,0,0,0,0,Female,31-45,Secondary education,v-high
+BGS,4.4,32.7,1.8,0.9,0,Bedroom,0,0.0,29.0,0.0,0.0,3.0,0.0,0.0,0.1,0,0,0,0,0,0,Female,31-45,Secondary education,high
+BGS,4.4,32.7,1.8,0.9,0,Bedroom,0,0.0,29.0,0.0,0.0,3.0,0.0,0.0,0.1,0,0,0,0,0,0,Female,31-45,University Education,medium
+BGS,4.4,32.7,1.8,0.9,0,Bedroom,0,0.0,29.0,0.0,0.0,3.0,0.0,0.0,0.1,0,0,0,0,0,0,Female,31-45,Secondary education,high
+BGS,4.4,32.7,1.8,0.9,0,Bedroom,0,0.0,29.0,0.0,0.0,3.0,0.0,0.0,0.1,0,0,0,0,0,0,Male,31-45,University Education,low
+BGS,4.4,32.7,1.8,0.9,0,Bedroom,0,0.0,29.0,0.0,0.0,3.0,0.0,0.0,0.1,0,0,0,0,0,0,Female,21-30,Secondary education,v-high
+BGS,4.4,32.7,1.8,0.9,0,Bedroom,0,0.0,29.0,0.0,0.0,3.0,0.0,0.0,0.1,0,0,0,0,0,0,Female,31-45,University Education,v-high
+BGS,4.4,32.7,1.8,0.9,0,Bedroom,0,0.0,29.0,0.0,0.0,3.0,0.0,0.0,0.1,0,0,0,0,0,0,Male,31-45,University Education,high
+BGS,4.4,32.7,1.8,0.9,0,Bedroom,0,0.0,29.0,0.0,0.0,3.0,0.0,0.0,0.1,0,0,0,0,0,0,Female,21-30,University Education,high
+BGS,4.4,32.7,1.8,0.9,0,Bedroom,0,0.0,29.0,0.0,0.0,3.0,0.0,0.0,0.1,0,0,0,0,0,0,Male,21-30,University Education,medium
+BGS,4.4,32.7,1.8,0.9,0,Bedroom,0,0.0,29.0,0.0,0.0,3.0,0.0,0.0,0.1,0,0,0,0,0,0,Male,21-30,Secondary education,medium
+BGS,4.4,32.7,1.8,0.9,0,Bedroom,0,0.0,29.0,0.0,0.0,3.0,0.0,0.0,0.1,0,0,0,0,0,0,Female,46-60,Secondary education,high
+BGS,4.4,32.7,1.8,0.9,0,Bedroom,0,0.0,29.0,0.0,0.0,3.0,0.0,0.0,0.1,0,0,0,0,0,0,Male,46-60,University Education,low
+BGS,14.0,13.5,4.0,0.2,0,Bedroom,0,0.0,29.0,0.0,0.0,3.0,0.0,0.0,0.1,0,0,0,0,0,0,Female,31-45,University Education,high
+BGS,14.0,13.5,4.0,0.2,0,Bedroom,0,0.0,29.0,0.0,0.0,3.0,0.0,0.0,0.1,0,0,0,0,0,0,Male,31-45,University Education,medium
+BGS,14.0,13.5,4.0,0.2,0,Bedroom,0,0.0,29.0,0.0,0.0,3.0,0.0,0.0,0.1,0,0,0,0,0,0,Male,31-45,University Education,high
+BGS,14.0,13.5,4.0,0.2,0,Bedroom,0,0.0,29.0,0.0,0.0,3.0,0.0,0.0,0.1,0,0,0,0,0,0,Female,31-45,University Education,low
+BGS,14.0,13.5,4.0,0.2,0,Bedroom,0,0.0,29.0,0.0,0.0,3.0,0.0,0.0,0.1,0,0,0,0,0,0,Female,31-45,University Education,v-high
+BGS,14.0,13.5,4.0,0.2,0,Bedroom,0,0.0,29.0,0.0,0.0,3.0,0.0,0.0,0.1,0,0,0,0,0,0,Male,46-60,Secondary education,v-high
+BGS,14.0,13.5,4.0,0.2,0,Bedroom,0,0.0,29.0,0.0,0.0,3.0,0.0,0.0,0.1,0,0,0,0,0,0,Female,31-45,Secondary education,medium
+BGS,14.0,13.5,4.0,0.2,0,Bedroom,0,0.0,29.0,0.0,0.0,3.0,0.0,0.0,0.1,0,0,0,0,0,0,Male,31-45,Secondary education,high
+BGS,14.0,13.5,4.0,0.2,0,Bedroom,0,0.0,29.0,0.0,0.0,3.0,0.0,0.0,0.1,0,0,0,0,0,0,Female,21-30,Secondary education,v-high
+BGS,14.0,13.5,4.0,0.2,0,Bedroom,0,0.0,29.0,0.0,0.0,3.0,0.0,0.0,0.1,0,0,0,0,0,0,Female,31-45,University Education,medium
+BGS,14.0,13.5,4.0,0.2,0,Bedroom,0,0.0,29.0,0.0,0.0,3.0,0.0,0.0,0.1,0,0,0,0,0,0,Female,46-60,University Education,v-high
+BGS,14.0,13.5,4.0,0.2,0,Bedroom,0,0.0,29.0,0.0,0.0,3.0,0.0,0.0,0.1,0,0,0,0,0,0,Male,21-30,Secondary education,v-high
+BGS,14.0,13.5,4.0,0.2,0,Bedroom,0,0.0,29.0,0.0,0.0,3.0,0.0,0.0,0.1,0,0,0,0,0,0,Female,31-45,Secondary education,low
+BGS,14.0,13.5,4.0,0.2,0,Bedroom,0,0.0,29.0,0.0,0.0,3.0,0.0,0.0,0.1,0,0,0,0,0,0,Female,31-45,Secondary education,low
+BGS,14.0,13.5,4.0,0.2,0,Bedroom,0,0.0,29.0,0.0,0.0,3.0,0.0,0.0,0.1,0,0,0,0,0,0,Female,31-45,University Education,low
+BGS,14.0,13.5,4.0,0.2,0,Bedroom,0,0.0,29.0,0.0,0.0,3.0,0.0,0.0,0.1,0,0,0,0,0,0,Female,31-45,Secondary education,v-high
+BGS,14.0,13.5,4.0,0.2,0,Bedroom,0,0.0,29.0,0.0,0.0,3.0,0.0,0.0,0.1,0,0,0,0,0,0,Male,31-45,University Education,medium
+BGS,14.0,13.5,4.0,0.2,0,Bedroom,0,0.0,29.0,0.0,0.0,3.0,0.0,0.0,0.1,0,0,0,0,0,0,Female,21-30,Secondary education,high
+BGS,14.0,13.5,4.0,0.2,0,Bedroom,0,0.0,29.0,0.0,0.0,3.0,0.0,0.0,0.1,0,0,0,0,0,0,Female,31-45,University Education,v-high
+BGS,14.0,13.5,4.0,0.2,0,Bedroom,0,0.0,29.0,0.0,0.0,3.0,0.0,0.0,0.1,0,0,0,0,0,0,Male,31-45,University Education,v-high
+BGS,14.0,13.5,4.0,0.2,0,Bedroom,0,0.0,29.0,0.0,0.0,3.0,0.0,0.0,0.1,0,0,0,0,0,0,Female,21-30,University Education,low
+BGS,14.0,13.5,4.0,0.2,0,Bedroom,0,0.0,29.0,0.0,0.0,3.0,0.0,0.0,0.1,0,0,0,0,0,0,Male,21-30,University Education,medium
+BGS,14.0,13.5,4.0,0.2,0,Bedroom,0,0.0,29.0,0.0,0.0,3.0,0.0,0.0,0.1,0,0,0,0,0,0,Male,21-30,Secondary education,v-low
+BGS,14.0,13.5,4.0,0.2,0,Bedroom,0,0.0,29.0,0.0,0.0,3.0,0.0,0.0,0.1,0,0,0,0,0,0,Female,46-60,Secondary education,low
+BGS,14.0,13.5,4.0,0.2,0,Bedroom,0,0.0,29.0,0.0,0.0,3.0,0.0,0.0,0.1,0,0,0,0,0,0,Male,46-60,University Education,high
+GGG,14.0,32.7,1.8,0.9,0,Bedroom,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,Female,31-45,University Education,v-high
+GGG,14.0,32.7,1.8,0.9,0,Bedroom,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,Male,31-45,University Education,high
+GGG,14.0,32.7,1.8,0.9,0,Bedroom,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,Male,31-45,University Education,medium
+GGG,14.0,32.7,1.8,0.9,0,Bedroom,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,Female,31-45,University Education,high
+GGG,14.0,32.7,1.8,0.9,0,Bedroom,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,Female,31-45,University Education,medium
+GGG,14.0,32.7,1.8,0.9,0,Bedroom,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,Male,46-60,Secondary education,medium
+GGG,14.0,32.7,1.8,0.9,0,Bedroom,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,Female,31-45,Secondary education,high
+GGG,14.0,32.7,1.8,0.9,0,Bedroom,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,Male,31-45,Secondary education,low
+GGG,14.0,32.7,1.8,0.9,0,Bedroom,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,Female,21-30,Secondary education,high
+GGG,14.0,32.7,1.8,0.9,0,Bedroom,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,Female,31-45,University Education,medium
+GGG,14.0,32.7,1.8,0.9,0,Bedroom,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,Female,46-60,University Education,medium
+GGG,14.0,32.7,1.8,0.9,0,Bedroom,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,Male,21-30,Secondary education,v-high
+GGG,14.0,32.7,1.8,0.9,0,Bedroom,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,Female,31-45,Secondary education,high
+GGG,14.0,32.7,1.8,0.9,0,Bedroom,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,Female,31-45,Secondary education,high
+GGG,14.0,32.7,1.8,0.9,0,Bedroom,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,Female,31-45,University Education,high
+GGG,14.0,32.7,1.8,0.9,0,Bedroom,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,Female,31-45,Secondary education,v-high
+GGG,14.0,32.7,1.8,0.9,0,Bedroom,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,Male,31-45,University Education,high
+GGG,14.0,32.7,1.8,0.9,0,Bedroom,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,Female,21-30,Secondary education,v-high
+GGG,14.0,32.7,1.8,0.9,0,Bedroom,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,Female,31-45,University Education,v-high
+GGG,14.0,32.7,1.8,0.9,0,Bedroom,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,Male,31-45,University Education,medium
+GGG,14.0,32.7,1.8,0.9,0,Bedroom,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,Female,21-30,University Education,high
+GGG,14.0,32.7,1.8,0.9,0,Bedroom,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,Male,21-30,University Education,medium
+GGG,14.0,32.7,1.8,0.9,0,Bedroom,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,Male,21-30,Secondary education,v-high
+GGG,14.0,32.7,1.8,0.9,0,Bedroom,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,Female,46-60,Secondary education,high
+GGG,14.0,32.7,1.8,0.9,0,Bedroom,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,Male,46-60,University Education,high
+GGG,14.0,32.7,4.0,0.2,1,Bedroom,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,Female,31-45,University Education,low
+GGG,14.0,32.7,4.0,0.2,1,Bedroom,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,Male,31-45,University Education,low
+GGG,14.0,32.7,4.0,0.2,1,Bedroom,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,Male,31-45,University Education,medium
+GGG,14.0,32.7,4.0,0.2,1,Bedroom,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,Female,31-45,University Education,v-low
+GGG,14.0,32.7,4.0,0.2,1,Bedroom,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,Female,31-45,University Education,medium
+GGG,14.0,32.7,4.0,0.2,1,Bedroom,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,Male,46-60,Secondary education,v-high
+GGG,14.0,32.7,4.0,0.2,1,Bedroom,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,Female,31-45,Secondary education,medium
+GGG,14.0,32.7,4.0,0.2,1,Bedroom,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,Male,31-45,Secondary education,medium
+GGG,14.0,32.7,4.0,0.2,1,Bedroom,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,Female,21-30,Secondary education,v-high
+GGG,14.0,32.7,4.0,0.2,1,Bedroom,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,Female,31-45,University Education,v-low
+GGG,14.0,32.7,4.0,0.2,1,Bedroom,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,Female,46-60,University Education,medium
+GGG,14.0,32.7,4.0,0.2,1,Bedroom,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,Male,21-30,Secondary education,v-high
+GGG,14.0,32.7,4.0,0.2,1,Bedroom,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,Female,31-45,Secondary education,medium
+GGG,14.0,32.7,4.0,0.2,1,Bedroom,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,Female,31-45,Secondary education,v-high
+GGG,14.0,32.7,4.0,0.2,1,Bedroom,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,Female,31-45,University Education,medium
+GGG,14.0,32.7,4.0,0.2,1,Bedroom,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,Female,31-45,Secondary education,v-high
+GGG,14.0,32.7,4.0,0.2,1,Bedroom,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,Male,31-45,University Education,high
+GGG,14.0,32.7,4.0,0.2,1,Bedroom,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,Female,21-30,Secondary education,high
+GGG,14.0,32.7,4.0,0.2,1,Bedroom,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,Female,31-45,University Education,v-high
+GGG,14.0,32.7,4.0,0.2,1,Bedroom,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,Male,31-45,University Education,v-high
+GGG,14.0,32.7,4.0,0.2,1,Bedroom,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,Female,21-30,University Education,medium
+GGG,14.0,32.7,4.0,0.2,1,Bedroom,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,Male,21-30,University Education,medium
+GGG,14.0,32.7,4.0,0.2,1,Bedroom,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,Male,21-30,Secondary education,medium
+GGG,14.0,32.7,4.0,0.2,1,Bedroom,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,Female,46-60,Secondary education,low
+GGG,14.0,32.7,4.0,0.2,1,Bedroom,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,Male,46-60,University Education,v-high
+BSB,14.0,13.5,1.8,0.9,0,Bedroom,34,0.0,29.0,3.6,0.0,3.0,0.1,0.0,0.1,1,0,0,1,0,0,Female,31-45,University Education,low
+BSB,14.0,13.5,1.8,0.9,0,Bedroom,34,0.0,29.0,3.6,0.0,3.0,0.1,0.0,0.1,1,0,0,1,0,0,Male,31-45,University Education,v-high
+BSB,14.0,13.5,1.8,0.9,0,Bedroom,34,0.0,29.0,3.6,0.0,3.0,0.1,0.0,0.1,1,0,0,1,0,0,Male,31-45,University Education,high
+BSB,14.0,13.5,1.8,0.9,0,Bedroom,34,0.0,29.0,3.6,0.0,3.0,0.1,0.0,0.1,1,0,0,1,0,0,Female,31-45,University Education,medium
+BSB,14.0,13.5,1.8,0.9,0,Bedroom,34,0.0,29.0,3.6,0.0,3.0,0.1,0.0,0.1,1,0,0,1,0,0,Female,31-45,University Education,v-high
+BSB,14.0,13.5,1.8,0.9,0,Bedroom,34,0.0,29.0,3.6,0.0,3.0,0.1,0.0,0.1,1,0,0,1,0,0,Male,46-60,Secondary education,medium
+BSB,14.0,13.5,1.8,0.9,0,Bedroom,34,0.0,29.0,3.6,0.0,3.0,0.1,0.0,0.1,1,0,0,1,0,0,Female,31-45,Secondary education,v-high
+BSB,14.0,13.5,1.8,0.9,0,Bedroom,34,0.0,29.0,3.6,0.0,3.0,0.1,0.0,0.1,1,0,0,1,0,0,Male,31-45,Secondary education,v-high
+BSB,14.0,13.5,1.8,0.9,0,Bedroom,34,0.0,29.0,3.6,0.0,3.0,0.1,0.0,0.1,1,0,0,1,0,0,Female,21-30,Secondary education,high
+BSB,14.0,13.5,1.8,0.9,0,Bedroom,34,0.0,29.0,3.6,0.0,3.0,0.1,0.0,0.1,1,0,0,1,0,0,Female,31-45,University Education,low
+BSB,14.0,13.5,1.8,0.9,0,Bedroom,34,0.0,29.0,3.6,0.0,3.0,0.1,0.0,0.1,1,0,0,1,0,0,Female,46-60,University Education,high
+BSB,14.0,13.5,1.8,0.9,0,Bedroom,34,0.0,29.0,3.6,0.0,3.0,0.1,0.0,0.1,1,0,0,1,0,0,Male,21-30,Secondary education,high
+BSB,14.0,13.5,1.8,0.9,0,Bedroom,34,0.0,29.0,3.6,0.0,3.0,0.1,0.0,0.1,1,0,0,1,0,0,Female,31-45,Secondary education,high
+BSB,14.0,13.5,1.8,0.9,0,Bedroom,34,0.0,29.0,3.6,0.0,3.0,0.1,0.0,0.1,1,0,0,1,0,0,Female,31-45,Secondary education,v-high
+BSB,14.0,13.5,1.8,0.9,0,Bedroom,34,0.0,29.0,3.6,0.0,3.0,0.1,0.0,0.1,1,0,0,1,0,0,Female,31-45,University Education,medium
+BSB,14.0,13.5,1.8,0.9,0,Bedroom,34,0.0,29.0,3.6,0.0,3.0,0.1,0.0,0.1,1,0,0,1,0,0,Female,31-45,Secondary education,high
+BSB,14.0,13.5,1.8,0.9,0,Bedroom,34,0.0,29.0,3.6,0.0,3.0,0.1,0.0,0.1,1,0,0,1,0,0,Male,31-45,University Education,medium
+BSB,14.0,13.5,1.8,0.9,0,Bedroom,34,0.0,29.0,3.6,0.0,3.0,0.1,0.0,0.1,1,0,0,1,0,0,Female,21-30,Secondary education,high
+BSB,14.0,13.5,1.8,0.9,0,Bedroom,34,0.0,29.0,3.6,0.0,3.0,0.1,0.0,0.1,1,0,0,1,0,0,Female,31-45,University Education,v-high
+BSB,14.0,13.5,1.8,0.9,0,Bedroom,34,0.0,29.0,3.6,0.0,3.0,0.1,0.0,0.1,1,0,0,1,0,0,Male,31-45,University Education,high
+BSB,14.0,13.5,1.8,0.9,0,Bedroom,34,0.0,29.0,3.6,0.0,3.0,0.1,0.0,0.1,1,0,0,1,0,0,Female,21-30,University Education,v-low
+BSB,14.0,13.5,1.8,0.9,0,Bedroom,34,0.0,29.0,3.6,0.0,3.0,0.1,0.0,0.1,1,0,0,1,0,0,Male,21-30,University Education,medium
+BSB,14.0,13.5,1.8,0.9,0,Bedroom,34,0.0,29.0,3.6,0.0,3.0,0.1,0.0,0.1,1,0,0,1,0,0,Male,21-30,Secondary education,high
+BSB,14.0,13.5,1.8,0.9,0,Bedroom,34,0.0,29.0,3.6,0.0,3.0,0.1,0.0,0.1,1,0,0,1,0,0,Female,46-60,Secondary education,high
+BSB,14.0,13.5,1.8,0.9,0,Bedroom,34,0.0,29.0,3.6,0.0,3.0,0.1,0.0,0.1,1,0,0,1,0,0,Male,46-60,University Education,high
+BSB,4.4,13.5,4.0,0.2,0,Bedroom,34,0.0,29.0,3.6,0.0,3.0,0.1,0.0,0.1,1,0,0,1,0,0,Female,31-45,University Education,v-low
+BSB,4.4,13.5,4.0,0.2,0,Bedroom,34,0.0,29.0,3.6,0.0,3.0,0.1,0.0,0.1,1,0,0,1,0,0,Male,31-45,University Education,medium
+BSB,4.4,13.5,4.0,0.2,0,Bedroom,34,0.0,29.0,3.6,0.0,3.0,0.1,0.0,0.1,1,0,0,1,0,0,Male,31-45,University Education,v-low
+BSB,4.4,13.5,4.0,0.2,0,Bedroom,34,0.0,29.0,3.6,0.0,3.0,0.1,0.0,0.1,1,0,0,1,0,0,Female,31-45,University Education,low
+BSB,4.4,13.5,4.0,0.2,0,Bedroom,34,0.0,29.0,3.6,0.0,3.0,0.1,0.0,0.1,1,0,0,1,0,0,Female,31-45,University Education,v-low
+BSB,4.4,13.5,4.0,0.2,0,Bedroom,34,0.0,29.0,3.6,0.0,3.0,0.1,0.0,0.1,1,0,0,1,0,0,Male,46-60,Secondary education,v-low
+BSB,4.4,13.5,4.0,0.2,0,Bedroom,34,0.0,29.0,3.6,0.0,3.0,0.1,0.0,0.1,1,0,0,1,0,0,Female,31-45,Secondary education,medium
+BSB,4.4,13.5,4.0,0.2,0,Bedroom,34,0.0,29.0,3.6,0.0,3.0,0.1,0.0,0.1,1,0,0,1,0,0,Male,31-45,Secondary education,v-low
+BSB,4.4,13.5,4.0,0.2,0,Bedroom,34,0.0,29.0,3.6,0.0,3.0,0.1,0.0,0.1,1,0,0,1,0,0,Female,21-30,Secondary education,medium
+BSB,4.4,13.5,4.0,0.2,0,Bedroom,34,0.0,29.0,3.6,0.0,3.0,0.1,0.0,0.1,1,0,0,1,0,0,Female,31-45,University Education,v-low
+BSB,4.4,13.5,4.0,0.2,0,Bedroom,34,0.0,29.0,3.6,0.0,3.0,0.1,0.0,0.1,1,0,0,1,0,0,Female,46-60,University Education,medium
+BSB,4.4,13.5,4.0,0.2,0,Bedroom,34,0.0,29.0,3.6,0.0,3.0,0.1,0.0,0.1,1,0,0,1,0,0,Male,21-30,Secondary education,medium
+BSB,4.4,13.5,4.0,0.2,0,Bedroom,34,0.0,29.0,3.6,0.0,3.0,0.1,0.0,0.1,1,0,0,1,0,0,Female,31-45,Secondary education,low
+BSB,4.4,13.5,4.0,0.2,0,Bedroom,34,0.0,29.0,3.6,0.0,3.0,0.1,0.0,0.1,1,0,0,1,0,0,Female,31-45,Secondary education,low
+BSB,4.4,13.5,4.0,0.2,0,Bedroom,34,0.0,29.0,3.6,0.0,3.0,0.1,0.0,0.1,1,0,0,1,0,0,Female,31-45,University Education,medium
+BSB,4.4,13.5,4.0,0.2,0,Bedroom,34,0.0,29.0,3.6,0.0,3.0,0.1,0.0,0.1,1,0,0,1,0,0,Female,31-45,Secondary education,medium
+BSB,4.4,13.5,4.0,0.2,0,Bedroom,34,0.0,29.0,3.6,0.0,3.0,0.1,0.0,0.1,1,0,0,1,0,0,Male,31-45,University Education,low
+BSB,4.4,13.5,4.0,0.2,0,Bedroom,34,0.0,29.0,3.6,0.0,3.0,0.1,0.0,0.1,1,0,0,1,0,0,Female,21-30,Secondary education,high
+BSB,4.4,13.5,4.0,0.2,0,Bedroom,34,0.0,29.0,3.6,0.0,3.0,0.1,0.0,0.1,1,0,0,1,0,0,Female,31-45,University Education,medium
+BSB,4.4,13.5,4.0,0.2,0,Bedroom,34,0.0,29.0,3.6,0.0,3.0,0.1,0.0,0.1,1,0,0,1,0,0,Male,31-45,University Education,high
+BSB,4.4,13.5,4.0,0.2,0,Bedroom,34,0.0,29.0,3.6,0.0,3.0,0.1,0.0,0.1,1,0,0,1,0,0,Female,21-30,University Education,v-low
+BSB,4.4,13.5,4.0,0.2,0,Bedroom,34,0.0,29.0,3.6,0.0,3.0,0.1,0.0,0.1,1,0,0,1,0,0,Male,21-30,University Education,low
+BSB,4.4,13.5,4.0,0.2,0,Bedroom,34,0.0,29.0,3.6,0.0,3.0,0.1,0.0,0.1,1,0,0,1,0,0,Male,21-30,Secondary education,v-low
+BSB,4.4,13.5,4.0,0.2,0,Bedroom,34,0.0,29.0,3.6,0.0,3.0,0.1,0.0,0.1,1,0,0,1,0,0,Female,46-60,Secondary education,low
+BSB,4.4,13.5,4.0,0.2,0,Bedroom,34,0.0,29.0,3.6,0.0,3.0,0.1,0.0,0.1,1,0,0,1,0,0,Male,46-60,University Education,low
+GSB,4.4,13.5,4.0,0.9,0,Bedroom,34,0.0,0.0,3.6,0.0,0.0,0.1,0.0,0.0,0,0,0,1,0,0,Female,31-45,University Education,v-low
+GSB,4.4,13.5,4.0,0.9,0,Bedroom,34,0.0,0.0,3.6,0.0,0.0,0.1,0.0,0.0,0,0,0,1,0,0,Male,31-45,University Education,high
+GSB,4.4,13.5,4.0,0.9,0,Bedroom,34,0.0,0.0,3.6,0.0,0.0,0.1,0.0,0.0,0,0,0,1,0,0,Male,31-45,University Education,v-low
+GSB,4.4,13.5,4.0,0.9,0,Bedroom,34,0.0,0.0,3.6,0.0,0.0,0.1,0.0,0.0,0,0,0,1,0,0,Female,31-45,University Education,low
+GSB,4.4,13.5,4.0,0.9,0,Bedroom,34,0.0,0.0,3.6,0.0,0.0,0.1,0.0,0.0,0,0,0,1,0,0,Female,31-45,University Education,v-low
+GSB,4.4,13.5,4.0,0.9,0,Bedroom,34,0.0,0.0,3.6,0.0,0.0,0.1,0.0,0.0,0,0,0,1,0,0,Male,46-60,Secondary education,v-high
+GSB,4.4,13.5,4.0,0.9,0,Bedroom,34,0.0,0.0,3.6,0.0,0.0,0.1,0.0,0.0,0,0,0,1,0,0,Female,31-45,Secondary education,low
+GSB,4.4,13.5,4.0,0.9,0,Bedroom,34,0.0,0.0,3.6,0.0,0.0,0.1,0.0,0.0,0,0,0,1,0,0,Male,31-45,Secondary education,medium
+GSB,4.4,13.5,4.0,0.9,0,Bedroom,34,0.0,0.0,3.6,0.0,0.0,0.1,0.0,0.0,0,0,0,1,0,0,Female,21-30,Secondary education,medium
+GSB,4.4,13.5,4.0,0.9,0,Bedroom,34,0.0,0.0,3.6,0.0,0.0,0.1,0.0,0.0,0,0,0,1,0,0,Female,31-45,University Education,medium
+GSB,4.4,13.5,4.0,0.9,0,Bedroom,34,0.0,0.0,3.6,0.0,0.0,0.1,0.0,0.0,0,0,0,1,0,0,Female,46-60,University Education,high
+GSB,4.4,13.5,4.0,0.9,0,Bedroom,34,0.0,0.0,3.6,0.0,0.0,0.1,0.0,0.0,0,0,0,1,0,0,Male,21-30,Secondary education,medium
+GSB,4.4,13.5,4.0,0.9,0,Bedroom,34,0.0,0.0,3.6,0.0,0.0,0.1,0.0,0.0,0,0,0,1,0,0,Female,31-45,Secondary education,low
+GSB,4.4,13.5,4.0,0.9,0,Bedroom,34,0.0,0.0,3.6,0.0,0.0,0.1,0.0,0.0,0,0,0,1,0,0,Female,31-45,Secondary education,high
+GSB,4.4,13.5,4.0,0.9,0,Bedroom,34,0.0,0.0,3.6,0.0,0.0,0.1,0.0,0.0,0,0,0,1,0,0,Female,31-45,University Education,medium
+GSB,4.4,13.5,4.0,0.9,0,Bedroom,34,0.0,0.0,3.6,0.0,0.0,0.1,0.0,0.0,0,0,0,1,0,0,Female,31-45,Secondary education,v-high
+GSB,4.4,13.5,4.0,0.9,0,Bedroom,34,0.0,0.0,3.6,0.0,0.0,0.1,0.0,0.0,0,0,0,1,0,0,Male,31-45,University Education,medium
+GSB,4.4,13.5,4.0,0.9,0,Bedroom,34,0.0,0.0,3.6,0.0,0.0,0.1,0.0,0.0,0,0,0,1,0,0,Female,21-30,Secondary education,high
+GSB,4.4,13.5,4.0,0.9,0,Bedroom,34,0.0,0.0,3.6,0.0,0.0,0.1,0.0,0.0,0,0,0,1,0,0,Female,31-45,University Education,v-high
+GSB,4.4,13.5,4.0,0.9,0,Bedroom,34,0.0,0.0,3.6,0.0,0.0,0.1,0.0,0.0,0,0,0,1,0,0,Male,31-45,University Education,v-high
+GSB,4.4,13.5,4.0,0.9,0,Bedroom,34,0.0,0.0,3.6,0.0,0.0,0.1,0.0,0.0,0,0,0,1,0,0,Female,21-30,University Education,v-low
+GSB,4.4,13.5,4.0,0.9,0,Bedroom,34,0.0,0.0,3.6,0.0,0.0,0.1,0.0,0.0,0,0,0,1,0,0,Male,21-30,University Education,low
+GSB,4.4,13.5,4.0,0.9,0,Bedroom,34,0.0,0.0,3.6,0.0,0.0,0.1,0.0,0.0,0,0,0,1,0,0,Male,21-30,Secondary education,high
+GSB,4.4,13.5,4.0,0.9,0,Bedroom,34,0.0,0.0,3.6,0.0,0.0,0.1,0.0,0.0,0,0,0,1,0,0,Female,46-60,Secondary education,medium
+GSB,4.4,13.5,4.0,0.9,0,Bedroom,34,0.0,0.0,3.6,0.0,0.0,0.1,0.0,0.0,0,0,0,1,0,0,Male,46-60,University Education,low
+GSB,4.4,13.5,4.0,0.2,1,Bedroom,34,0.0,0.0,3.6,0.0,0.0,0.1,0.0,0.0,0,0,0,1,0,0,Female,31-45,University Education,v-low
+GSB,4.4,13.5,4.0,0.2,1,Bedroom,34,0.0,0.0,3.6,0.0,0.0,0.1,0.0,0.0,0,0,0,1,0,0,Male,31-45,University Education,v-low
+GSB,4.4,13.5,4.0,0.2,1,Bedroom,34,0.0,0.0,3.6,0.0,0.0,0.1,0.0,0.0,0,0,0,1,0,0,Male,31-45,University Education,high
+GSB,4.4,13.5,4.0,0.2,1,Bedroom,34,0.0,0.0,3.6,0.0,0.0,0.1,0.0,0.0,0,0,0,1,0,0,Female,31-45,University Education,v-low
+GSB,4.4,13.5,4.0,0.2,1,Bedroom,34,0.0,0.0,3.6,0.0,0.0,0.1,0.0,0.0,0,0,0,1,0,0,Female,31-45,University Education,v-low
+GSB,4.4,13.5,4.0,0.2,1,Bedroom,34,0.0,0.0,3.6,0.0,0.0,0.1,0.0,0.0,0,0,0,1,0,0,Male,46-60,Secondary education,v-high
+GSB,4.4,13.5,4.0,0.2,1,Bedroom,34,0.0,0.0,3.6,0.0,0.0,0.1,0.0,0.0,0,0,0,1,0,0,Female,31-45,Secondary education,v-low
+GSB,4.4,13.5,4.0,0.2,1,Bedroom,34,0.0,0.0,3.6,0.0,0.0,0.1,0.0,0.0,0,0,0,1,0,0,Male,31-45,Secondary education,medium
+GSB,4.4,13.5,4.0,0.2,1,Bedroom,34,0.0,0.0,3.6,0.0,0.0,0.1,0.0,0.0,0,0,0,1,0,0,Female,21-30,Secondary education,medium
+GSB,4.4,13.5,4.0,0.2,1,Bedroom,34,0.0,0.0,3.6,0.0,0.0,0.1,0.0,0.0,0,0,0,1,0,0,Female,31-45,University Education,low
+GSB,4.4,13.5,4.0,0.2,1,Bedroom,34,0.0,0.0,3.6,0.0,0.0,0.1,0.0,0.0,0,0,0,1,0,0,Female,46-60,University Education,high
+GSB,4.4,13.5,4.0,0.2,1,Bedroom,34,0.0,0.0,3.6,0.0,0.0,0.1,0.0,0.0,0,0,0,1,0,0,Male,21-30,Secondary education,medium
+GSB,4.4,13.5,4.0,0.2,1,Bedroom,34,0.0,0.0,3.6,0.0,0.0,0.1,0.0,0.0,0,0,0,1,0,0,Female,31-45,Secondary education,low
+GSB,4.4,13.5,4.0,0.2,1,Bedroom,34,0.0,0.0,3.6,0.0,0.0,0.1,0.0,0.0,0,0,0,1,0,0,Female,31-45,Secondary education,v-low
+GSB,4.4,13.5,4.0,0.2,1,Bedroom,34,0.0,0.0,3.6,0.0,0.0,0.1,0.0,0.0,0,0,0,1,0,0,Female,31-45,University Education,low
+GSB,4.4,13.5,4.0,0.2,1,Bedroom,34,0.0,0.0,3.6,0.0,0.0,0.1,0.0,0.0,0,0,0,1,0,0,Female,31-45,Secondary education,medium
+GSB,4.4,13.5,4.0,0.2,1,Bedroom,34,0.0,0.0,3.6,0.0,0.0,0.1,0.0,0.0,0,0,0,1,0,0,Male,31-45,University Education,v-low
+GSB,4.4,13.5,4.0,0.2,1,Bedroom,34,0.0,0.0,3.6,0.0,0.0,0.1,0.0,0.0,0,0,0,1,0,0,Female,21-30,Secondary education,high
+GSB,4.4,13.5,4.0,0.2,1,Bedroom,34,0.0,0.0,3.6,0.0,0.0,0.1,0.0,0.0,0,0,0,1,0,0,Female,31-45,University Education,medium
+GSB,4.4,13.5,4.0,0.2,1,Bedroom,34,0.0,0.0,3.6,0.0,0.0,0.1,0.0,0.0,0,0,0,1,0,0,Male,31-45,University Education,v-high
+GSB,4.4,32.7,4.0,0.2,1,Bedroom,34,0.0,0.0,3.6,0.0,0.0,0.1,0.0,0.0,0,0,0,1,0,0,Female,21-30,University Education,v-low
+GSB,4.4,13.5,4.0,0.2,1,Bedroom,34,0.0,0.0,3.6,0.0,0.0,0.1,0.0,0.0,0,0,0,1,0,0,Male,21-30,University Education,v-low
+GSB,4.4,13.5,4.0,0.2,1,Bedroom,34,0.0,0.0,3.6,0.0,0.0,0.1,0.0,0.0,0,0,0,1,0,0,Male,21-30,Secondary education,low
+GSB,4.4,13.5,4.0,0.2,1,Bedroom,34,0.0,0.0,3.6,0.0,0.0,0.1,0.0,0.0,0,0,0,1,0,0,Female,46-60,Secondary education,v-low
+GSB,4.4,32.7,4.0,0.2,1,Bedroom,34,0.0,0.0,3.6,0.0,0.0,0.1,0.0,0.0,0,0,0,1,0,0,Male,46-60,University Education,v-low
+GBG,4.4,13.5,1.8,0.9,0,Bedroom,0,34.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,0,0,Female,31-45,University Education,high
+GBG,4.4,13.5,1.8,0.9,0,Bedroom,0,34.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,0,0,Male,31-45,University Education,high
+GBG,4.4,13.5,1.8,0.9,0,Bedroom,0,34.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,0,0,Male,31-45,University Education,v-low
+GBG,4.4,13.5,1.8,0.9,0,Bedroom,0,34.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,0,0,Female,31-45,University Education,high
+GBG,4.4,13.5,1.8,0.9,0,Bedroom,0,34.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,0,0,Female,31-45,University Education,v-low
+GBG,4.4,13.5,1.8,0.9,0,Bedroom,0,34.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,0,0,Male,46-60,Secondary education,v-low
+GBG,4.4,13.5,1.8,0.9,0,Bedroom,0,34.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,0,0,Female,31-45,Secondary education,low
+GBG,4.4,13.5,1.8,0.9,0,Bedroom,0,34.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,0,0,Male,31-45,Secondary education,v-low
+GBG,4.4,13.5,1.8,0.9,0,Bedroom,0,34.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,0,0,Female,21-30,Secondary education,low
+GBG,4.4,13.5,1.8,0.9,0,Bedroom,0,34.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,0,0,Female,31-45,University Education,v-low
+GBG,4.4,13.5,1.8,0.9,0,Bedroom,0,34.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,0,0,Female,46-60,University Education,v-low
+GBG,4.4,13.5,1.8,0.9,0,Bedroom,0,34.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,0,0,Male,21-30,Secondary education,low
+GBG,4.4,13.5,1.8,0.9,0,Bedroom,0,34.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,0,0,Female,31-45,Secondary education,low
+GBG,4.4,13.5,1.8,0.9,0,Bedroom,0,34.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,0,0,Female,31-45,Secondary education,low
+GBG,4.4,13.5,1.8,0.9,0,Bedroom,0,34.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,0,0,Female,31-45,University Education,low
+GBG,4.4,13.5,1.8,0.9,0,Bedroom,0,34.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,0,0,Female,31-45,Secondary education,low
+GBG,4.4,13.5,1.8,0.9,0,Bedroom,0,34.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,0,0,Male,31-45,University Education,v-low
+GBG,4.4,13.5,1.8,0.9,0,Bedroom,0,34.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,0,0,Female,21-30,Secondary education,low
+GBG,4.4,13.5,1.8,0.9,0,Bedroom,0,34.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,0,0,Female,31-45,University Education,v-low
+GBG,4.4,13.5,1.8,0.9,0,Bedroom,0,34.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,0,0,Male,31-45,University Education,medium
+GBG,4.4,13.5,1.8,0.9,0,Bedroom,0,34.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,0,0,Female,21-30,University Education,low
+GBG,4.4,13.5,1.8,0.9,0,Bedroom,0,34.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,0,0,Male,21-30,University Education,v-low
+GBG,4.4,13.5,1.8,0.9,0,Bedroom,0,34.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,0,0,Male,21-30,Secondary education,low
+GBG,4.4,13.5,1.8,0.9,0,Bedroom,0,34.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,0,0,Female,46-60,Secondary education,low
+GBG,4.4,13.5,1.8,0.9,0,Bedroom,0,34.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,0,0,Male,46-60,University Education,v-low
+SBG,4.4,13.5,1.8,0.9,0,Living Room,0,30.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,1,0,Female,31-45,University Education,high
+SBG,4.4,13.5,1.8,0.9,0,Living Room,0,30.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,1,0,Male,31-45,University Education,medium
+SBG,4.4,13.5,1.8,0.9,0,Living Room,0,30.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,1,0,Male,31-45,University Education,v-low
+SBG,4.4,13.5,1.8,0.9,0,Living Room,0,30.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,1,0,Female,31-45,University Education,medium
+SBG,4.4,13.5,1.8,0.9,0,Living Room,0,30.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,1,0,Female,31-45,University Education,v-low
+SBG,4.4,13.5,1.8,0.9,0,Living Room,0,30.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,1,0,Male,46-60,Secondary education,v-low
+SBG,4.4,13.5,1.8,0.9,0,Living Room,0,30.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,1,0,Female,31-45,Secondary education,medium
+SBG,4.4,13.5,1.8,0.9,0,Living Room,0,30.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,1,0,Male,31-45,Secondary education,v-low
+SBG,4.4,13.5,1.8,0.9,0,Living Room,0,30.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,1,0,Female,21-30,Secondary education,v-low
+SBG,4.4,13.5,1.8,0.9,0,Living Room,0,30.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,1,0,Female,31-45,University Education,v-low
+SBG,4.4,13.5,1.8,0.9,0,Living Room,0,30.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,1,0,Female,46-60,University Education,low
+SBG,4.4,13.5,1.8,0.9,0,Living Room,0,30.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,1,0,Male,21-30,Secondary education,low
+SBG,4.4,13.5,1.8,0.9,0,Living Room,0,30.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,1,0,Female,31-45,Secondary education,low
+SBG,4.4,13.5,1.8,0.9,0,Living Room,0,30.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,1,0,Female,31-45,Secondary education,v-low
+SBG,4.4,13.5,1.8,0.9,0,Living Room,0,30.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,1,0,Female,31-45,University Education,medium
+SBG,4.4,13.5,1.8,0.9,0,Living Room,0,30.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,1,0,Female,31-45,Secondary education,low
+SBG,4.4,13.5,1.8,0.9,0,Living Room,0,30.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,1,0,Male,31-45,University Education,low
+SBG,4.4,13.5,1.8,0.9,0,Living Room,0,30.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,1,0,Female,21-30,Secondary education,low
+SBG,4.4,13.5,1.8,0.9,0,Living Room,0,30.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,1,0,Female,31-45,University Education,v-low
+SBG,4.4,13.5,1.8,0.9,0,Living Room,0,30.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,1,0,Male,31-45,University Education,low
+SBG,4.4,13.5,1.8,0.9,0,Living Room,0,30.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,1,0,Female,21-30,University Education,medium
+SBG,4.4,13.5,1.8,0.9,0,Living Room,0,30.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,1,0,Male,21-30,University Education,v-low
+SBG,4.4,13.5,1.8,0.9,0,Living Room,0,30.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,1,0,Male,21-30,Secondary education,low
+SBG,4.4,13.5,1.8,0.9,0,Living Room,0,30.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,1,0,Female,46-60,Secondary education,low
+SBG,4.4,13.5,1.8,0.9,0,Living Room,0,30.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,1,0,Male,46-60,University Education,v-low
+SBG,14.0,13.5,1.8,0.9,0,Living Room,0,30.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,1,0,Female,31-45,University Education,medium
+SBG,14.0,13.5,1.8,0.9,0,Living Room,0,30.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,1,0,Male,31-45,University Education,medium
+SBG,14.0,13.5,1.8,0.9,0,Living Room,0,30.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,1,0,Male,31-45,University Education,v-low
+SBG,14.0,13.5,1.8,0.9,0,Living Room,0,30.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,1,0,Female,31-45,University Education,high
+SBG,14.0,13.5,1.8,0.9,0,Living Room,0,30.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,1,0,Female,31-45,University Education,v-low
+SBG,14.0,13.5,1.8,0.9,0,Living Room,0,30.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,1,0,Male,46-60,Secondary education,v-low
+SBG,14.0,13.5,1.8,0.9,0,Living Room,0,30.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,1,0,Female,31-45,Secondary education,v-low
+SBG,14.0,13.5,1.8,0.9,0,Living Room,0,30.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,1,0,Male,31-45,Secondary education,v-low
+SBG,14.0,13.5,1.8,0.9,0,Living Room,0,30.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,1,0,Female,21-30,Secondary education,v-low
+SBG,14.0,13.5,1.8,0.9,0,Living Room,0,30.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,1,0,Female,31-45,University Education,v-low
+SBG,14.0,13.5,1.8,0.9,0,Living Room,0,30.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,1,0,Female,46-60,University Education,v-low
+SBG,14.0,13.5,1.8,0.9,0,Living Room,0,30.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,1,0,Male,21-30,Secondary education,low
+SBG,14.0,13.5,1.8,0.9,0,Living Room,0,30.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,1,0,Female,31-45,Secondary education,v-low
+SBG,14.0,13.5,1.8,0.9,0,Living Room,0,30.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,1,0,Female,31-45,Secondary education,low
+SBG,14.0,13.5,1.8,0.9,0,Living Room,0,30.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,1,0,Female,31-45,University Education,medium
+SBG,14.0,13.5,1.8,0.9,0,Living Room,0,30.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,1,0,Female,31-45,Secondary education,medium
+SBG,14.0,13.5,1.8,0.9,0,Living Room,0,30.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,1,0,Male,31-45,University Education,v-low
+SBG,14.0,13.5,1.8,0.9,0,Living Room,0,30.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,1,0,Female,21-30,Secondary education,low
+SBG,14.0,13.5,1.8,0.9,0,Living Room,0,30.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,1,0,Female,31-45,University Education,v-low
+SBG,14.0,13.5,1.8,0.9,0,Living Room,0,30.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,1,0,Male,31-45,University Education,low
+SBG,14.0,13.5,1.8,0.9,0,Living Room,0,30.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,1,0,Female,21-30,University Education,medium
+SBG,14.0,13.5,1.8,0.9,0,Living Room,0,30.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,1,0,Male,21-30,University Education,v-low
+SBG,14.0,13.5,1.8,0.9,0,Living Room,0,30.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,1,0,Male,21-30,Secondary education,low
+SBG,14.0,13.5,1.8,0.9,0,Living Room,0,30.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,1,0,Female,46-60,Secondary education,v-low
+SBG,14.0,13.5,1.8,0.9,0,Living Room,0,30.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,1,0,Male,46-60,University Education,v-low
+SBG,4.4,32.7,4.0,0.2,1,Living Room,0,30.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,1,0,Female,31-45,University Education,v-low
+SBG,4.4,32.7,4.0,0.2,1,Living Room,0,30.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,1,0,Male,31-45,University Education,v-low
+SBG,4.4,32.7,4.0,0.2,1,Living Room,0,30.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,1,0,Male,31-45,University Education,low
+SBG,4.4,32.7,4.0,0.2,1,Living Room,0,30.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,1,0,Female,31-45,University Education,v-low
+SBG,4.4,32.7,4.0,0.2,1,Living Room,0,30.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,1,0,Female,31-45,University Education,v-low
+SBG,4.4,32.7,4.0,0.2,1,Living Room,0,30.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,1,0,Male,46-60,Secondary education,high
+SBG,4.4,32.7,4.0,0.2,1,Living Room,0,30.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,1,0,Female,31-45,Secondary education,medium
+SBG,4.4,32.7,4.0,0.2,1,Living Room,0,30.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,1,0,Male,31-45,Secondary education,low
+SBG,4.4,32.7,4.0,0.2,1,Living Room,0,30.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,1,0,Female,21-30,Secondary education,low
+SBG,4.4,32.7,4.0,0.2,1,Living Room,0,30.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,1,0,Female,31-45,University Education,low
+SBG,4.4,32.7,4.0,0.2,1,Living Room,0,30.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,1,0,Female,46-60,University Education,low
+SBG,4.4,32.7,4.0,0.2,1,Living Room,0,30.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,1,0,Male,21-30,Secondary education,v-low
+SBG,4.4,32.7,4.0,0.2,1,Living Room,0,30.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,1,0,Female,31-45,Secondary education,v-low
+SBG,4.4,32.7,4.0,0.2,1,Living Room,0,30.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,1,0,Female,31-45,Secondary education,low
+SBG,4.4,32.7,4.0,0.2,1,Living Room,0,30.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,1,0,Female,31-45,University Education,medium
+SBG,4.4,32.7,4.0,0.2,1,Living Room,0,30.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,1,0,Female,31-45,Secondary education,medium
+SBG,4.4,32.7,4.0,0.2,1,Living Room,0,30.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,1,0,Male,31-45,University Education,v-low
+SBG,4.4,32.7,4.0,0.2,1,Living Room,0,30.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,1,0,Female,21-30,Secondary education,low
+SBG,4.4,32.7,4.0,0.2,1,Living Room,0,30.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,1,0,Female,31-45,University Education,low
+SBG,4.4,32.7,4.0,0.2,1,Living Room,0,30.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,1,0,Male,31-45,University Education,medium
+SBG,4.4,32.7,4.0,0.2,1,Living Room,0,30.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,1,0,Female,21-30,University Education,low
+SBG,4.4,32.7,4.0,0.2,1,Living Room,0,30.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,1,0,Male,21-30,University Education,v-low
+SBG,4.4,32.7,4.0,0.2,1,Living Room,0,30.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,1,0,Male,21-30,Secondary education,medium
+SBG,4.4,32.7,4.0,0.2,1,Living Room,0,30.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,1,0,Female,46-60,Secondary education,low
+SBG,4.4,32.7,4.0,0.2,1,Living Room,0,30.0,0.0,0.0,4.0,0.0,0.0,0.1,0.0,0,1,0,0,1,0,Male,46-60,University Education,low
+BBG,4.4,13.5,1.8,0.9,0,Bedroom,0,15.5,21.13,0.0,2.5,0.8,0.0,0.1,0.8,0,1,0,0,1,1,Female,31-45,University Education,medium
+BBG,4.4,13.5,1.8,0.9,0,Bedroom,0,15.5,21.13,0.0,2.5,0.8,0.0,0.1,0.8,0,1,0,0,1,1,Male,31-45,University Education,v-high
+BBG,4.4,13.5,1.8,0.9,0,Bedroom,0,15.5,21.13,0.0,2.5,0.8,0.0,0.1,0.8,0,1,0,0,1,1,Male,31-45,University Education,medium
+BBG,4.4,13.5,1.8,0.9,0,Bedroom,0,15.5,21.13,0.0,2.5,0.8,0.0,0.1,0.8,0,1,0,0,1,1,Female,31-45,University Education,medium
+BBG,4.4,13.5,1.8,0.9,0,Bedroom,0,15.5,21.13,0.0,2.5,0.8,0.0,0.1,0.8,0,1,0,0,1,1,Female,31-45,University Education,v-low
+BBG,4.4,13.5,1.8,0.9,0,Bedroom,0,15.5,21.13,0.0,2.5,0.8,0.0,0.1,0.8,0,1,0,0,1,1,Male,46-60,Secondary education,v-low
+BBG,4.4,13.5,1.8,0.9,0,Bedroom,0,15.5,21.13,0.0,2.5,0.8,0.0,0.1,0.8,0,1,0,0,1,1,Female,31-45,Secondary education,v-low
+BBG,4.4,13.5,1.8,0.9,0,Bedroom,0,15.5,21.13,0.0,2.5,0.8,0.0,0.1,0.8,0,1,0,0,1,1,Male,31-45,Secondary education,v-low
+BBG,4.4,13.5,1.8,0.9,0,Bedroom,0,15.5,21.13,0.0,2.5,0.8,0.0,0.1,0.8,0,1,0,0,1,1,Female,21-30,Secondary education,v-low
+BBG,4.4,13.5,1.8,0.9,0,Bedroom,0,15.5,21.13,0.0,2.5,0.8,0.0,0.1,0.8,0,1,0,0,1,1,Female,31-45,University Education,low
+BBG,4.4,13.5,1.8,0.9,0,Bedroom,0,15.5,21.13,0.0,2.5,0.8,0.0,0.1,0.8,0,1,0,0,1,1,Female,46-60,University Education,v-low
+BBG,4.4,13.5,1.8,0.9,0,Bedroom,0,15.5,21.13,0.0,2.5,0.8,0.0,0.1,0.8,0,1,0,0,1,1,Male,21-30,Secondary education,low
+BBG,4.4,13.5,1.8,0.9,0,Bedroom,0,15.5,21.13,0.0,2.5,0.8,0.0,0.1,0.8,0,1,0,0,1,1,Female,31-45,Secondary education,high
+BBG,4.4,13.5,1.8,0.9,0,Bedroom,0,15.5,21.13,0.0,2.5,0.8,0.0,0.1,0.8,0,1,0,0,1,1,Female,31-45,Secondary education,v-low
+BBG,4.4,13.5,1.8,0.9,0,Bedroom,0,15.5,21.13,0.0,2.5,0.8,0.0,0.1,0.8,0,1,0,0,1,1,Female,31-45,University Education,medium
+BBG,4.4,13.5,1.8,0.9,0,Bedroom,0,15.5,21.13,0.0,2.5,0.8,0.0,0.1,0.8,0,1,0,0,1,1,Female,31-45,Secondary education,medium
+BBG,4.4,13.5,1.8,0.9,0,Bedroom,0,15.5,21.13,0.0,2.5,0.8,0.0,0.1,0.8,0,1,0,0,1,1,Male,31-45,University Education,low
+BBG,4.4,13.5,1.8,0.9,0,Bedroom,0,15.5,21.13,0.0,2.5,0.8,0.0,0.1,0.8,0,1,0,0,1,1,Female,21-30,Secondary education,low
+BBG,4.4,13.5,1.8,0.9,0,Bedroom,0,15.5,21.13,0.0,2.5,0.8,0.0,0.1,0.8,0,1,0,0,1,1,Female,31-45,University Education,v-low
+BBG,4.4,13.5,1.8,0.9,0,Bedroom,0,15.5,21.13,0.0,2.5,0.8,0.0,0.1,0.8,0,1,0,0,1,1,Male,31-45,University Education,medium
+BBG,4.4,13.5,1.8,0.9,0,Bedroom,0,15.5,21.13,0.0,2.5,0.8,0.0,0.1,0.8,0,1,0,0,1,1,Female,21-30,University Education,high
+BBG,4.4,13.5,1.8,0.9,0,Bedroom,0,15.5,21.13,0.0,2.5,0.8,0.0,0.1,0.8,0,1,0,0,1,1,Male,21-30,University Education,low
+BBG,4.4,13.5,1.8,0.9,0,Bedroom,0,15.5,21.13,0.0,2.5,0.8,0.0,0.1,0.8,0,1,0,0,1,1,Male,21-30,Secondary education,low
+BBG,4.4,13.5,1.8,0.9,0,Bedroom,0,15.5,21.13,0.0,2.5,0.8,0.0,0.1,0.8,0,1,0,0,1,1,Female,46-60,Secondary education,low
+BBG,4.4,13.5,1.8,0.9,0,Bedroom,0,15.5,21.13,0.0,2.5,0.8,0.0,0.1,0.8,0,1,0,0,1,1,Male,46-60,University Education,low
+BBG,14.0,13.5,4.0,0.2,0,Bedroom,0,15.5,21.13,0.0,2.5,0.8,0.0,0.1,0.8,0,1,0,0,1,1,Female,31-45,University Education,medium
+BBG,14.0,13.5,4.0,0.2,0,Bedroom,0,15.5,21.13,0.0,2.5,0.8,0.0,0.1,0.8,0,1,0,0,1,1,Male,31-45,University Education,medium
+BBG,14.0,13.5,4.0,0.2,0,Bedroom,0,15.5,21.13,0.0,2.5,0.8,0.0,0.1,0.8,0,1,0,0,1,1,Male,31-45,University Education,high
+BBG,14.0,13.5,4.0,0.2,0,Bedroom,0,15.5,21.13,0.0,2.5,0.8,0.0,0.1,0.8,0,1,0,0,1,1,Female,31-45,University Education,low
+BBG,14.0,13.5,4.0,0.2,0,Bedroom,0,15.5,21.13,0.0,2.5,0.8,0.0,0.1,0.8,0,1,0,0,1,1,Female,31-45,University Education,v-low
+BBG,14.0,13.5,4.0,0.2,0,Bedroom,0,15.5,21.13,0.0,2.5,0.8,0.0,0.1,0.8,0,1,0,0,1,1,Male,46-60,Secondary education,v-low
+BBG,14.0,13.5,4.0,0.2,0,Bedroom,0,15.5,21.13,0.0,2.5,0.8,0.0,0.1,0.8,0,1,0,0,1,1,Female,31-45,Secondary education,v-low
+BBG,14.0,13.5,4.0,0.2,0,Bedroom,0,15.5,21.13,0.0,2.5,0.8,0.0,0.1,0.8,0,1,0,0,1,1,Male,31-45,Secondary education,v-low
+BBG,14.0,13.5,4.0,0.2,0,Bedroom,0,15.5,21.13,0.0,2.5,0.8,0.0,0.1,0.8,0,1,0,0,1,1,Female,21-30,Secondary education,medium
+BBG,14.0,13.5,4.0,0.2,0,Bedroom,0,15.5,21.13,0.0,2.5,0.8,0.0,0.1,0.8,0,1,0,0,1,1,Female,31-45,University Education,low
+BBG,14.0,13.5,4.0,0.2,0,Bedroom,0,15.5,21.13,0.0,2.5,0.8,0.0,0.1,0.8,0,1,0,0,1,1,Female,46-60,University Education,v-low
+BBG,14.0,13.5,4.0,0.2,0,Bedroom,0,15.5,21.13,0.0,2.5,0.8,0.0,0.1,0.8,0,1,0,0,1,1,Male,21-30,Secondary education,v-low
+BBG,14.0,13.5,4.0,0.2,0,Bedroom,0,15.5,21.13,0.0,2.5,0.8,0.0,0.1,0.8,0,1,0,0,1,1,Female,31-45,Secondary education,low
+BBG,14.0,13.5,4.0,0.2,0,Bedroom,0,15.5,21.13,0.0,2.5,0.8,0.0,0.1,0.8,0,1,0,0,1,1,Female,31-45,Secondary education,v-low
+BBG,14.0,13.5,4.0,0.2,0,Bedroom,0,15.5,21.13,0.0,2.5,0.8,0.0,0.1,0.8,0,1,0,0,1,1,Female,31-45,University Education,high
+BBG,14.0,13.5,4.0,0.2,0,Bedroom,0,15.5,21.13,0.0,2.5,0.8,0.0,0.1,0.8,0,1,0,0,1,1,Female,31-45,Secondary education,low
+BBG,14.0,13.5,4.0,0.2,0,Bedroom,0,15.5,21.13,0.0,2.5,0.8,0.0,0.1,0.8,0,1,0,0,1,1,Male,31-45,University Education,medium
+BBG,14.0,13.5,4.0,0.2,0,Bedroom,0,15.5,21.13,0.0,2.5,0.8,0.0,0.1,0.8,0,1,0,0,1,1,Female,21-30,Secondary education,medium
+BBG,14.0,13.5,4.0,0.2,0,Bedroom,0,15.5,21.13,0.0,2.5,0.8,0.0,0.1,0.8,0,1,0,0,1,1,Female,31-45,University Education,v-low
+BBG,14.0,13.5,4.0,0.2,0,Bedroom,0,15.5,21.13,0.0,2.5,0.8,0.0,0.1,0.8,0,1,0,0,1,1,Male,31-45,University Education,medium
+BBG,14.0,13.5,4.0,0.2,0,Bedroom,0,15.5,21.13,0.0,2.5,0.8,0.0,0.1,0.8,0,1,0,0,1,1,Female,21-30,University Education,high
+BBG,14.0,13.5,4.0,0.2,0,Bedroom,0,15.5,21.13,0.0,2.5,0.8,0.0,0.1,0.8,0,1,0,0,1,1,Male,21-30,University Education,low
+BBG,14.0,13.5,4.0,0.2,0,Bedroom,0,15.5,21.13,0.0,2.5,0.8,0.0,0.1,0.8,0,1,0,0,1,1,Male,21-30,Secondary education,high
+BBG,14.0,13.5,4.0,0.2,0,Bedroom,0,15.5,21.13,0.0,2.5,0.8,0.0,0.1,0.8,0,1,0,0,1,1,Female,46-60,Secondary education,v-low
+BBG,14.0,13.5,4.0,0.2,0,Bedroom,0,15.5,21.13,0.0,2.5,0.8,0.0,0.1,0.8,0,1,0,0,1,1,Male,46-60,University Education,low
+BBB,14.0,13.5,4.0,0.9,0,Living Room,20,29.0,34.0,5.0,3.0,4.0,0.8,0.1,0.1,0,0,1,1,0,1,Female,31-45,University Education,low
+BBB,14.0,13.5,4.0,0.9,0,Living Room,20,29.0,34.0,5.0,3.0,4.0,0.8,0.1,0.1,0,0,1,1,0,1,Male,31-45,University Education,v-high
+BBB,14.0,13.5,4.0,0.9,0,Living Room,20,29.0,34.0,5.0,3.0,4.0,0.8,0.1,0.1,0,0,1,1,0,1,Male,31-45,University Education,v-low
+BBB,14.0,13.5,4.0,0.9,0,Living Room,20,29.0,34.0,5.0,3.0,4.0,0.8,0.1,0.1,0,0,1,1,0,1,Female,31-45,University Education,high
+BBB,14.0,13.5,4.0,0.9,0,Living Room,20,29.0,34.0,5.0,3.0,4.0,0.8,0.1,0.1,0,0,1,1,0,1,Female,31-45,University Education,v-low
+BBB,14.0,13.5,4.0,0.9,0,Living Room,20,29.0,34.0,5.0,3.0,4.0,0.8,0.1,0.1,0,0,1,1,0,1,Male,46-60,Secondary education,v-low
+BBB,14.0,13.5,4.0,0.9,0,Living Room,20,29.0,34.0,5.0,3.0,4.0,0.8,0.1,0.1,0,0,1,1,0,1,Female,31-45,Secondary education,v-low
+BBB,14.0,13.5,4.0,0.9,0,Living Room,20,29.0,34.0,5.0,3.0,4.0,0.8,0.1,0.1,0,0,1,1,0,1,Male,31-45,Secondary education,v-low
+BBB,14.0,13.5,4.0,0.9,0,Living Room,20,29.0,34.0,5.0,3.0,4.0,0.8,0.1,0.1,0,0,1,1,0,1,Female,21-30,Secondary education,low
+BBB,14.0,13.5,4.0,0.9,0,Living Room,20,29.0,34.0,5.0,3.0,4.0,0.8,0.1,0.1,0,0,1,1,0,1,Female,31-45,University Education,v-low
+BBB,14.0,13.5,4.0,0.9,0,Living Room,20,29.0,34.0,5.0,3.0,4.0,0.8,0.1,0.1,0,0,1,1,0,1,Female,46-60,University Education,v-low
+BBB,14.0,13.5,4.0,0.9,0,Living Room,20,29.0,34.0,5.0,3.0,4.0,0.8,0.1,0.1,0,0,1,1,0,1,Male,21-30,Secondary education,v-low
+BBB,14.0,13.5,4.0,0.9,0,Living Room,20,29.0,34.0,5.0,3.0,4.0,0.8,0.1,0.1,0,0,1,1,0,1,Female,31-45,Secondary education,medium
+BBB,14.0,13.5,4.0,0.9,0,Living Room,20,29.0,34.0,5.0,3.0,4.0,0.8,0.1,0.1,0,0,1,1,0,1,Female,31-45,Secondary education,v-low
+BBB,14.0,13.5,4.0,0.9,0,Living Room,20,29.0,34.0,5.0,3.0,4.0,0.8,0.1,0.1,0,0,1,1,0,1,Female,31-45,University Education,medium
+BBB,14.0,13.5,4.0,0.9,0,Living Room,20,29.0,34.0,5.0,3.0,4.0,0.8,0.1,0.1,0,0,1,1,0,1,Female,31-45,Secondary education,v-low
+BBB,14.0,13.5,4.0,0.9,0,Living Room,20,29.0,34.0,5.0,3.0,4.0,0.8,0.1,0.1,0,0,1,1,0,1,Male,31-45,University Education,low
+BBB,14.0,13.5,4.0,0.9,0,Living Room,20,29.0,34.0,5.0,3.0,4.0,0.8,0.1,0.1,0,0,1,1,0,1,Female,21-30,Secondary education,v-low
+BBB,14.0,13.5,4.0,0.9,0,Living Room,20,29.0,34.0,5.0,3.0,4.0,0.8,0.1,0.1,0,0,1,1,0,1,Female,31-45,University Education,v-low
+BBB,14.0,13.5,4.0,0.9,0,Living Room,20,29.0,34.0,5.0,3.0,4.0,0.8,0.1,0.1,0,0,1,1,0,1,Male,31-45,University Education,medium
+BBB,14.0,13.5,4.0,0.9,0,Living Room,20,29.0,34.0,5.0,3.0,4.0,0.8,0.1,0.1,0,0,1,1,0,1,Female,21-30,University Education,low
+BBB,14.0,13.5,4.0,0.9,0,Living Room,20,29.0,34.0,5.0,3.0,4.0,0.8,0.1,0.1,0,0,1,1,0,1,Male,21-30,University Education,v-low
+BBB,14.0,13.5,4.0,0.9,0,Living Room,20,29.0,34.0,5.0,3.0,4.0,0.8,0.1,0.1,0,0,1,1,0,1,Male,21-30,Secondary education,low
+BBB,14.0,13.5,4.0,0.9,0,Living Room,20,29.0,34.0,5.0,3.0,4.0,0.8,0.1,0.1,0,0,1,1,0,1,Female,46-60,Secondary education,low
+BBB,14.0,13.5,4.0,0.9,0,Living Room,20,29.0,34.0,5.0,3.0,4.0,0.8,0.1,0.1,0,0,1,1,0,1,Male,46-60,University Education,v-low
+BBB,14.0,32.7,4.0,0.2,1,Living Room,20,29.0,34.0,5.0,3.0,4.0,0.8,0.1,0.1,0,0,1,1,0,1,Female,31-45,University Education,medium
+BBB,14.0,32.7,4.0,0.2,1,Living Room,20,29.0,34.0,5.0,3.0,4.0,0.8,0.1,0.1,0,0,1,1,0,1,Male,31-45,University Education,low
+BBB,14.0,32.7,4.0,0.2,1,Living Room,20,29.0,34.0,5.0,3.0,4.0,0.8,0.1,0.1,0,0,1,1,0,1,Male,31-45,University Education,medium
+BBB,14.0,32.7,4.0,0.2,1,Living Room,20,29.0,34.0,5.0,3.0,4.0,0.8,0.1,0.1,0,0,1,1,0,1,Female,31-45,University Education,low
+BBB,14.0,32.7,4.0,0.2,1,Living Room,20,29.0,34.0,5.0,3.0,4.0,0.8,0.1,0.1,0,0,1,1,0,1,Female,31-45,University Education,v-low
+BBB,14.0,32.7,4.0,0.2,1,Living Room,20,29.0,34.0,5.0,3.0,4.0,0.8,0.1,0.1,0,0,1,1,0,1,Male,46-60,Secondary education,v-low
+BBB,14.0,32.7,4.0,0.2,1,Living Room,20,29.0,34.0,5.0,3.0,4.0,0.8,0.1,0.1,0,0,1,1,0,1,Female,31-45,Secondary education,v-low
+BBB,14.0,32.7,4.0,0.2,1,Living Room,20,29.0,34.0,5.0,3.0,4.0,0.8,0.1,0.1,0,0,1,1,0,1,Male,31-45,Secondary education,low
+BBB,14.0,32.7,4.0,0.2,1,Living Room,20,29.0,34.0,5.0,3.0,4.0,0.8,0.1,0.1,0,0,1,1,0,1,Female,21-30,Secondary education,medium
+BBB,14.0,32.7,4.0,0.2,1,Living Room,20,29.0,34.0,5.0,3.0,4.0,0.8,0.1,0.1,0,0,1,1,0,1,Female,31-45,University Education,low
+BBB,14.0,32.7,4.0,0.2,1,Living Room,20,29.0,34.0,5.0,3.0,4.0,0.8,0.1,0.1,0,0,1,1,0,1,Female,46-60,University Education,v-low
+BBB,14.0,32.7,4.0,0.2,1,Living Room,20,29.0,34.0,5.0,3.0,4.0,0.8,0.1,0.1,0,0,1,1,0,1,Male,21-30,Secondary education,v-low
+BBB,14.0,32.7,4.0,0.2,1,Living Room,20,29.0,34.0,5.0,3.0,4.0,0.8,0.1,0.1,0,0,1,1,0,1,Female,31-45,Secondary education,medium
+BBB,14.0,32.7,4.0,0.2,1,Living Room,20,29.0,34.0,5.0,3.0,4.0,0.8,0.1,0.1,0,0,1,1,0,1,Female,31-45,Secondary education,v-low
+BBB,14.0,32.7,4.0,0.2,1,Living Room,20,29.0,34.0,5.0,3.0,4.0,0.8,0.1,0.1,0,0,1,1,0,1,Female,31-45,University Education,low
+BBB,14.0,32.7,4.0,0.2,1,Living Room,20,29.0,34.0,5.0,3.0,4.0,0.8,0.1,0.1,0,0,1,1,0,1,Female,31-45,Secondary education,v-low
+BBB,14.0,32.7,4.0,0.2,1,Living Room,20,29.0,34.0,5.0,3.0,4.0,0.8,0.1,0.1,0,0,1,1,0,1,Male,31-45,University Education,medium
+BBB,14.0,32.7,4.0,0.2,1,Living Room,20,29.0,34.0,5.0,3.0,4.0,0.8,0.1,0.1,0,0,1,1,0,1,Female,21-30,Secondary education,v-low
+BBB,14.0,32.7,4.0,0.2,1,Living Room,20,29.0,34.0,5.0,3.0,4.0,0.8,0.1,0.1,0,0,1,1,0,1,Female,31-45,University Education,v-low
+BBB,14.0,32.7,4.0,0.2,1,Living Room,20,29.0,34.0,5.0,3.0,4.0,0.8,0.1,0.1,0,0,1,1,0,1,Male,31-45,University Education,low
+BBB,14.0,32.7,4.0,0.2,1,Living Room,20,29.0,34.0,5.0,3.0,4.0,0.8,0.1,0.1,0,0,1,1,0,1,Female,21-30,University Education,medium
+BBB,14.0,32.7,4.0,0.2,1,Living Room,20,29.0,34.0,5.0,3.0,4.0,0.8,0.1,0.1,0,0,1,1,0,1,Male,21-30,University Education,low
+BBB,14.0,32.7,4.0,0.2,1,Living Room,20,29.0,34.0,5.0,3.0,4.0,0.8,0.1,0.1,0,0,1,1,0,1,Male,21-30,Secondary education,low
+BBB,14.0,32.7,4.0,0.2,1,Living Room,20,29.0,34.0,5.0,3.0,4.0,0.8,0.1,0.1,0,0,1,1,0,1,Female,46-60,Secondary education,v-low
+BBB,14.0,32.7,4.0,0.2,1,Living Room,20,29.0,34.0,5.0,3.0,4.0,0.8,0.1,0.1,0,0,1,1,0,1,Male,46-60,University Education,v-low

@@ -1,0 +1,46 @@
+view,sight height(M),street-canyon width,window width(M),sill height(M),balcony,space category,building height(L),building height(F),building height(R),window width(L),window width(F),window width(R),sill height(L),sill height(F),sill height(R),balcony(L),balcony(F),balcony(R),curtain(L),curtain(F),curtain(R),sex,age,edu,privacy
+BBB,13.0,8,4.0,0.6,0,living room,18,15,15,2,1,2,1.3,1.3,1.3,0,0,0,1,1,1,FeMale,31-45,University Education,high
+BBB,13.0,8,4.0,0.6,0,living room,18,15,15,2,1,2,1.3,1.3,1.3,0,0,0,1,1,1,FeMale,over 60,University Education,medium
+BBB,13.0,8,4.0,0.6,0,living room,18,15,15,2,1,2,1.3,1.3,1.3,0,0,0,1,1,1,Male,over 60,University Education,v-high
+BBB,9.5,8,4.0,0.6,0,living room,18,15,15,2,1,2,1.3,1.3,1.3,0,0,0,1,1,1,FeMale,31-45,University Education,low
+BBB,13.0,8,4.0,0.1,1,living room,18,15,15,2,1,2,1.3,1.3,1.3,0,0,0,1,1,1,FeMale,31-45,University Education,medium
+BBB,9.5,8,4.0,0.1,1,living room,18,15,15,2,1,2,1.3,1.3,1.3,0,0,0,1,1,1,FeMale,over 60,University Education,medium
+BBB,13.0,30,2.5,0.9,0,bedroom,18,10,15,2,1,2,1.3,0.2,1.3,1,0,0,1,1,1,FeMale,31-45,University Education,high
+BBB,13.0,30,2.5,0.9,0,bedroom,18,10,15,2,1,2,1.3,0.2,1.3,1,0,0,1,1,1,FeMale,over 60,University Education,high
+BBB,9.5,30,2.5,0.9,0,bedroom,18,10,15,2,1,2,1.3,0.2,1.3,1,0,0,1,1,1,FeMale,31-45,University Education,low
+BBB,13.0,13,2.5,0.2,1,living room,20,20,20,2,2,2,1.3,0.9,1.3,0,0,0,1,1,1,FeMale,31-45,University Education,low
+BBB,13.0,13,2.5,0.2,1,living room,20,20,20,2,2,2,1.3,0.9,1.3,0,0,0,1,1,1,FeMale,over 60,University Education,low
+BBB,13.0,13,2.5,0.2,1,living room,20,20,20,2,2,2,1.3,0.9,1.3,0,0,0,1,1,1,Male,over 60,University Education,low
+BBB,13.0,13,2.5,1.3,0,living room,20,20,20,2,2,2,1.3,0.9,1.3,0,0,0,1,1,1,FeMale,31-45,University Education,medium
+BBB,13.0,13,2.5,1.3,0,living room,20,20,20,2,2,2,1.3,0.9,1.3,0,0,0,1,1,1,Male,over 60,University Education,low
+BBB,13.0,13,2.5,1.3,0,living room,20,20,20,2,2,2,1.3,0.9,1.3,0,0,0,1,1,1,FeMale,over 60,University Education,medium
+BBB,9.5,13,2.5,0.2,1,living room,20,20,20,2,2,2,1.3,0.9,1.3,0,0,0,1,1,1,FeMale,31-45,University Education,low
+BBB,9.5,13,2.5,1.3,0,living room,20,20,20,2,2,2,1.3,0.9,1.3,0,0,0,1,1,1,FeMale,31-45,University Education,medium
+GGB,6.0,25,4.0,0.1,0,living room,0,0,5,0,0,5,0.0,0.0,0.2,0,0,1,0,0,0,FeMale,31-45,University Education,medium
+GGB,6.0,25,4.0,0.1,0,living room,0,0,5,0,0,5,0.0,0.0,0.2,0,0,1,0,0,0,FeMale,over 60,University Education,high
+GGB,6.0,25,4.0,0.1,0,living room,0,0,5,0,0,5,0.0,0.0,0.2,0,0,1,0,0,0,FeMale,over 60,University Education,v-high
+GGB,6.0,25,4.0,0.1,1,living room,0,0,5,0,0,5,0.0,0.0,0.2,0,1,1,0,0,0,FeMale,31-45,University Education,v-high
+BBB,6.0,70,4.0,0.1,1,living room,12,12,12,4,4,4,0.1,0.1,0.1,1,1,1,0,0,0,FeMale,31-45,University Education,high
+GGG,6.0,30,4.0,1.3,0,living room,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,FeMale,31-45,University Education,v-high
+GGG,6.0,30,4.0,1.3,0,living room,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,Male,over 60,University Education,v-high
+GGG,3.0,30,4.0,0.1,1,bedroom,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,FeMale,31-45,University Education,v-low
+GGG,3.0,30,4.0,0.1,0,living room,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,FeMale,31-45,University Education,low
+GGG,3.0,30,4.0,0.1,1,bedroom,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,FeMale,over 60,University Education,v-low
+GGG,3.0,30,4.0,0.1,0,living room,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,FeMale,over 60,University Education,v-low
+GGG,3.0,30,4.0,0.1,1,bedroom,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,FeMale,46-60,University Education,low
+GGG,3.0,30,4.0,0.1,0,living room,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,FeMale,46-60,University Education,low
+GGG,3.0,30,4.0,0.1,1,bedroom,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,Male,over 60,University Education,low
+GGG,3.0,30,4.0,0.1,0,living room,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,Male,over 60,University Education,medium
+GGG,6.0,30,4.0,1.3,0,bedroom,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,FeMale,31-45,University Education,high
+GGG,6.0,30,4.0,1.3,0,bedroom,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,FeMale,over 60,University Education,high
+GGG,6.0,30,4.0,1.3,0,bedroom,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,Male,over 60,University Education,v-high
+GGG,6.0,30,4.0,1.3,0,bedroom,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,FeMale,31-45,University Education,medium
+BBG,3.0,9,4.0,0.1,0,living room,20,20,0,2,2,0,1.5,1.5,0.0,0,0,0,1,1,1,FeMale,46-60,University Education,v-low
+BBG,3.0,9,4.0,0.1,0,bedroom,20,20,0,2,2,0,1.5,1.5,0.0,0,0,0,1,1,1,FeMale,46-60,University Education,v-low
+BBG,3.0,9,1.5,0.1,1,bedroom,20,20,0,2,2,0,1.5,1.5,0.0,0,0,0,1,1,1,FeMale,46-60,University Education,low
+BBG,3.0,9,4.0,0.1,0,living room,20,20,0,2,2,0,1.5,1.5,0.0,0,0,0,1,1,1,Male,46-60,University Education,v-low
+BBG,3.0,9,4.0,0.1,0,bedroom,20,20,0,2,2,0,1.5,1.5,0.0,0,0,0,1,1,1,Male,46-60,University Education,v-low
+BBG,3.0,9,1.5,0.1,1,bedroom,20,20,0,2,2,0,1.5,1.5,0.0,0,0,0,1,1,1,Male,46-60,University Education,low
+BBB,3.0,12,3.0,1.5,0,bedroom,10,10,10,4,4,4,0.2,0.2,0.2,0,1,0,1,1,1,feMale,31-45,University Education,meidium
+BBB,3.0,12,3.0,1.5,0,bedroom,10,10,10,4,4,4,0.2,0.2,0.2,0,1,0,1,1,1,feMale,over 60,University Education,meidium
+BBB,3.0,12,3.0,1.5,0,bedroom,10,10,10,4,4,4,0.2,0.2,0.2,0,1,0,1,1,1,Male,over 61,University Education,low
